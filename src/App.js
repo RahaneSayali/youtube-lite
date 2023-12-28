@@ -1,7 +1,12 @@
-import React from 'react'
+import React from "react";
+import { AppContext } from "./context/contextApi";
 
-export default function App() {
-  return (
-    <div>App</div>
-  )
-}
+const App = () => {
+    return (
+        <AppContext>
+            <div className="text-3xl"></div>
+        </AppContext>
+    );
+};
+
+export default App;
