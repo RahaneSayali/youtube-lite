@@ -6,7 +6,7 @@ YouTube-Lite is a lightweight web application inspired by YouTube, built using m
 
 ## Demo
 
-![YouTube-Lite Demo](demo\giphy.mp4)
+![YouTube-Lite Demo](demo\p1.png)
 
 
 ## Getting Started
